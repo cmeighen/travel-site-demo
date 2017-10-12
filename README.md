@@ -1,4 +1,4 @@
-# Travel Site Demo [Site Link](https://cmeighen.github.io/travel-site-demo/)
+# Travel Site Demo | [Site Link](https://cmeighen.github.io/travel-site-demo/)
 
 ## Description
 This demo site is the result of completing this [web developer course](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow).
